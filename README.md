@@ -7,7 +7,7 @@ The system supports **Low-pass, High-pass, and Band-pass filtering** of real aud
 Designed using:
 - MATLAB & Simulink (Filter design & HDL Workflow Advisor)
 - Vivado (Reference design & integration)
-- Verilog (HDL code generated & tested)
+- Verilog ( HDL code generated & tested)
 - Zedboard with ADAU1761 Audio Codec
 
 ---
