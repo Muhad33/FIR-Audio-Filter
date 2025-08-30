@@ -11,7 +11,7 @@ Designed using:
 - Zedboard with ADAU1761 Audio Codec
 
 ---
-## 📂 Project Structure
+## 📂 Repository Structure
 ```bash
 FIR-Audio-Filter/
 │── src/              # Verilog source files (generated from MATLAB HDL Coder)
