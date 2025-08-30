@@ -23,14 +23,11 @@ FIR-Audio-Filter/
 │
 │── docs/             # Documentation & diagrams
 │   ├── block_diagram.png
-│   ├── system_architecture.png
-│   ├── output_waveform.png
-│   └── zedboard_setup.png
+│   ├── Bloack_Diagram_Of_Audio_System.png
+│   ├── ...
 │
 │── results/          # Simulation and FPGA output
-│   ├── simulation_waveforms.png
-│   ├── test_results.txt
-│   └── demo_ui.png
+│   ├── Output_Waveform_With_Sample_Input.png
 │
 └── README.md         # Project documentation
 ```
@@ -45,13 +42,6 @@ FIR-Audio-Filter/
   - LD1 → Low-pass filter  
   - LD2 → Band-pass filter  
   - LD3 → High-pass filter  
-
----
-
-## 🖼️ Block Diagrams & Architecture
-| System Block Diagram | FPGA Integration | Audio Output |
-|----------------------|------------------|--------------|
-| ![Block](docs/block_diagram.png) | ![Architecture](docs/system_architecture.png) | ![Waveform](docs/output_waveform.png) |
 
 ---
 
